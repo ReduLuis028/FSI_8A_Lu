@@ -1,21 +1,21 @@
 **Reto
-
+	
 **Descripción
-
+	What is 0x3D (base 16) in decimal (base 10)?
+	
 **Solución
-	1. Usando cyberchef
-		https://gchq.github.io/CyberChef/#recipe=From_Hex('Auto')&input=MHg3MA
-		picoCTF(p)
-	2. Usando la terminal de picoCTF
-	```
+	1. Usando terminal de picoCTF
 		Lui5-picoctf@webshell:~$ python
 		Python 3.10.12 (main, Feb  4 2025, 14:57:36) [GCC 11.4.0] on linux
 		Type "help", "copyright", "credits" or "license" for more information.
-		chr(int("70", 16))
-		'p'
-	```
+		 
+		int("3D", 16)
+		61
+
+	picoCTF{61}
 
 **Notes
-
+	Convertir de hexadecimal a decimal mediante conversiones en Python
 	
 **Referencias
+	
