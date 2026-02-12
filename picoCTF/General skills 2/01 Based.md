@@ -5,7 +5,7 @@
 	Connect with nc fickle-tempest.picoctf.net 50955.
 	
 **Solución**
-	Haciendo conversiones con la calculadora de Windows, en modo programador, y uso de tabla ASCII (https://elcodigoascii.com.ar/)
+	Haciendo conversiones con Conversor.exe hecha en una materia previa (separado por espacios, cada digito), y uso de tabla ASCII (https://elcodigoascii.com.ar/)
 		`BINARIO → DECIMAL → ASCII`
 		`01101100 = 108 = 'l'`
 		`01101001 = 105 = 'i'`
