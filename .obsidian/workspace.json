@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "028c52f0cbfe7614",
+        "id": "11cd3c4c2bea1744",
         "type": "tabs",
         "children": [
           {
-            "id": "cfd4443807fc14c2",
+            "id": "20b9b8f9f1182e73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/General skills 2/01 Based.md",
+                "file": "picoCTF/Tarea 1 - General Skills/01 Permissions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 Based"
+              "title": "01 Permissions"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/1 General skills/Lets Warm Up.md",
+                "file": "picoCTF/General skills 3/01 Super SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lets Warm Up"
+              "title": "Backlinks for 01 Super SSH"
             }
           },
           {
@@ -183,40 +183,42 @@
       "bases:Create new base": false
     }
   },
-  "active": "cfd4443807fc14c2",
+  "active": "20b9b8f9f1182e73",
   "lastOpenFiles": [
-    "picoCTF/General skills 2/01 Based.md",
-    "picoCTF/General skills 2/Conversor.exe",
-    "picoCTF/General skills 2/Conversor1.exe",
-    "picoCTF/General skills 2/02 Strings it.md",
-    "picoCTF/General skills 2/03 Wave a flag.md",
-    "picoCTF/General skills 2/04 Static ain't always noise.md",
-    "picoCTF/General skills 2/05 Useless.md",
-    "picoCTF/General skills 2/06 Tab, Tab, Attack.md",
-    "picoCTF/General skills 2/07 Magikarp Ground Mission.md",
-    "picoCTF/General skills 2/08 Repetitions.md",
-    "picoCTF/General skills 2/09 Big zip.md",
-    "picoCTF/General skills 2/10 First Find.md",
+    "picoCTF/General skills 3/01 Super SSH.md",
+    "picoCTF/General skills 3/02 runme.py.md",
+    "picoCTF/General skills 3/03 Codebook.md",
+    "picoCTF/General skills 3/03 codebook.txt",
+    "picoCTF/General skills 3/04 convertme.py.md",
+    "picoCTF/General skills 3/10 Serpentine.md",
+    "picoCTF/General skills 3/09 PW Crack 3.md",
+    "picoCTF/General skills 3/08 PW Crack 2.md",
+    "picoCTF/General skills 3/07 PW Crack 1.md",
+    "picoCTF/General skills 3/09 level3.hash.bin",
+    "picoCTF/General skills 3/09 level3.flag.txt.enc",
+    "picoCTF/General skills 3/09 level3.py",
+    "picoCTF/General skills 3/08 level2.flag.txt.enc",
+    "picoCTF/General skills 3/08 level2.py",
+    "picoCTF/General skills 3/07 level1.py",
+    "picoCTF/General skills 3/07 level1.flag.txt.enc",
+    "picoCTF/General skills 3/10 serpentine.py",
+    "picoCTF/General skills 3/02 runme.py",
+    "picoCTF/Tarea 1 - General Skills/01 Permissions.md",
+    "picoCTF/Tarea 1 - General Skills/08 Binary search.md",
+    "picoCTF/Tarea 1 - General Skills/07 Collaborative development.md",
+    "picoCTF/Tarea 1 - General Skills/09 Binhexa.md",
+    "picoCTF/Tarea 1 - General Skills/10 ASCII Numbers.md",
+    "picoCTF/General skills 3/05 fixme1.py.md",
+    "picoCTF/Tarea 1 - General Skills/06 Blame game.md",
+    "picoCTF/Tarea 1 - General Skills/04 Committee issue.md",
+    "picoCTF/Tarea 1 - General Skills/05 Time machine.md",
+    "picoCTF/Tarea 1 - General Skills/03 Special.md",
+    "picoCTF/Tarea 1 - General Skills/02 Chrono.md",
     "plantilla.md",
-    "picoCTF/General skills 1/02 2Warm.md",
-    "Untitled 4.md",
-    "Untitled 5.md",
-    "Untitled 6.md",
-    "Untitled 7.md",
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "create a link.md",
-    "picoCTF/General skills 1/10 Nice netcat.md",
-    "picoCTF/1 General skills/09 Glitch Cat.md",
-    "picoCTF/1 General skills/08 Plumbing.md",
-    "picoCTF/1 General skills/07 What is a net cat.md",
-    "FSI_8A_Lu/FSI_8A_Lu/FSI_8A_Lu",
-    "FSI_8A_Lu/FSI_8A_Lu/LICENSE",
-    "FSI_8A_Lu/FSI_8A_Lu",
-    "FSI_8A_Lu",
-    "picoCTF/1 General skills",
-    "picoCTF"
+    "picoCTF/General skills 3/06 fixme2.py.md",
+    "picoCTF/General skills 2/02 Strings it.md",
+    "picoCTF/General skills 2/01 Based.md",
+    "picoCTF/General skills 3/plantilla 1 - copia (9).md",
+    "picoCTF/General skills 3/plantilla 1 1 1.md"
   ]
 }
