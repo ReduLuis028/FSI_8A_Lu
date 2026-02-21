@@ -134,13 +134,13 @@
 		Al redefinir `IFS` con otro carácter, por ejemplo `IFS=-;`, se podía reemplazar el espacio en los comandos.  
 		Se utilizaron variables y ejecución de comandos para evadir la corrección de “Special”: 
 
-		`${IFS}ls;b=blargh` → ejecuta `ls` y luego separa el comando `b=blargh` usando `;`. Esto permitió pensr que `blargh` contiene algo dentro.  
-		`$(ls)` → intentó ejecutar la salida de `ls` como comando; el shell intentó correr `blargh` como si fuera un ejecutable y falló (`sh: 1: blargh: not found`).  
+		`${IFS}ls;b=blargh` → ejecuta `ls` y luego separa el comando `b=blargh` usando `;`. Esto permitió pensar que `blargh` contiene algo dentro.
+		`$(ls)` → intentó ejecutar la salida de `ls` como comando; el shell intentó correr `blargh` como si fuera un ejecutable y falló (`sh: 1: blargh: not found`).
 		`$(IFS=+;b=cat+blargh/flag.txt+;$b)` → ejecuta `cat blargh/flag.txt` usando `+` como separador, mostrando la bandera sin usar espacios literales.
 
 /		 3. Resultados: 
 		Directorio mostrado: blargh
-			Es decir, al obtener de 	la ejecución de *Special$ $(ls)* `en la lineas 81-83` tenemos que muestra *sh: 1: blargh: not found* por lo tanto se asume que poria ser una ruta hacia la bandera.
+			Es decir, al obtener de la ejecución de *Special$ $(ls)* `en la lineas 81-83` tenemos que muestra *sh: 1: blargh: not found* por lo tanto se asume que podría ser una ruta hacia la bandera.
 		Bandera obtenida: picoCTF{5p311ch3ck_15_7h3_w0r57_6a2763f6}  
 
 /		 4. Aprendizaje: 
