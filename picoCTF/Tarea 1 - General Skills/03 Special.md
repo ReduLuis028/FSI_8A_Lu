@@ -134,7 +134,7 @@
 		Al redefinir `IFS` con otro carácter, por ejemplo `IFS=-;`, se podía reemplazar el espacio en los comandos.  
 		Se utilizaron variables y ejecución de comandos para evadir la corrección de “Special”: 
 
-		`${IFS}ls;b=blargh` → ejecuta `ls` y luego separa el comando `b=blargh` usando `;`. Esto permitió pensar que `blargh` contiene algo dentro.
+		`${IFS}ls;b=blargh` → ejecuta `ls` y luego separa el comando `b=blargh` usando `;`. Como `$(ls)` intentó ejecutar `blargh`, eso indica que `ls` mostró un directorio llamado `blargh`
 		`$(ls)` → intentó ejecutar la salida de `ls` como comando; el shell intentó correr `blargh` como si fuera un ejecutable y falló (`sh: 1: blargh: not found`).
 		`$(IFS=+;b=cat+blargh/flag.txt+;$b)` → ejecuta `cat blargh/flag.txt` usando `+` como separador, mostrando la bandera sin usar espacios literales.
 
