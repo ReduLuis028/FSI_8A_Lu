@@ -150,4 +150,4 @@
 		El reto enseña cómo los filtros en shells personalizados pueden ser evadidos mediante conocimiento del shell interno y sus variables.
 
 **Referencias**
-	https://book.hacktricks.wiki/en/linux-hardening/bypass-bash-restrictions/index.html?
+	https://book.hacktricks.wiki/en/linux-hardening/bypass-bash-restrictions/index.html
