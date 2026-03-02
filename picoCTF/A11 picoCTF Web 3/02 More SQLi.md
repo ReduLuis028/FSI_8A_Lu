@@ -207,7 +207,7 @@
 	4. Se confirmó la vulnerabilidad utilizando un bypass de autenticación con:
 		  `'or 1 = = 1--` o `' or 1 = = 1;`
 	5. Una vez dentro del sistema, el campo "Search Office" también resultó vulnerable a SQL Injection.
-	6. Se determinó el número de columnas de la consulta mediante pruebas con UNION SELECT.
+	6. Se determinó el número de columnas de la consulta mediante pruebas con UNION SELECT 1, 2 , 3, ...., n.
 	7. Se verificó que la consulta contenía 3 columnas usando:
 		`' UNION SELECT sqlite_version(),2,3--`
 	8. Se confirmó que la base de datos utilizada era SQLite al obtener su versión (3.31.1).
