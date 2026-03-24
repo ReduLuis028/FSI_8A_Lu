@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "04e052641a53701b",
+    "type": "split",
+    "children": [
+      {
+        "id": "691e7829ec0c63db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8361c5c685711f86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "E1 - 1er Examen Parcial/09 Java Code Analysis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09 Java Code Analysis"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d846bf47da7042b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8aa4fe710e90691a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4cde7cfb5556529",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "6718b89842271487",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "03d21a45a7827ff5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 256.5
+  },
+  "right": {
+    "id": "eca91effdc17fa30",
+    "type": "split",
+    "children": [
+      {
+        "id": "64b35bceeefbbb9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a858c608dd4506fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tarea 3 - Competencia picoCTF 2026/01 bytemancy 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 01 bytemancy 1"
+            }
+          },
+          {
+            "id": "5d2d2aef2f1f01b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "A14 picoCTF Forensic 2/04 like1000.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de 04 like1000"
+            }
+          },
+          {
+            "id": "ed3368cb7b7d0cd9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "b77fb989d0b98456",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "9ec2d842ae4e8375",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "A14 picoCTF Forensic 2/04 like1000.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de 04 like1000"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "8361c5c685711f86",
+  "lastOpenFiles": [
+    "E1 - 1er Examen Parcial/08 findme.md",
+    "E1 - 1er Examen Parcial/06 head-dump.md",
+    "E1 - 1er Examen Parcial/Archivos 06/heapdump-1774037896456.heapsnapshot",
+    "E1 - 1er Examen Parcial/Archivos 06",
+    "E1 - 1er Examen Parcial/Nueva carpeta",
+    "E1 - 1er Examen Parcial/09 Java Code Analysis.md",
+    "E1 - 1er Examen Parcial/05 Cookie Monster Secret Recipe.md",
+    "E1 - 1er Examen Parcial/Archivos 08/solve_base64.py",
+    "E1 - 1er Examen Parcial/Archivos 08",
+    "E1 - 1er Examen Parcial/Archivos 05/Screenshot 2026-03-20 120856.png",
+    "E1 - 1er Examen Parcial/07 SSTI1.md",
+    "E1 - 1er Examen Parcial/Archivos 06/solve_base64.py",
+    "E1 - 1er Examen Parcial/Archivos 05/solve_base64.py",
+    "E1 - 1er Examen Parcial/Archivos 05",
+    "E1 - 1er Examen Parcial/04 Bookmarklet.md",
+    "E1 - 1er Examen Parcial/Archivos 04/solve.js",
+    "E1 - 1er Examen Parcial/Archivos 04/index.html",
+    "E1 - 1er Examen Parcial/01 FANTASY CTF.md",
+    "E1 - 1er Examen Parcial/11 SSTI2.md",
+    "E1 - 1er Examen Parcial/10 SQL Direct.md",
+    "E1 - 1er Examen Parcial/03 flag_shop.md",
+    "E1 - 1er Examen Parcial/02 dont-you-love-banners.md",
+    "Tarea 3 - Competencia picoCTF 2026/10 ping-cmd.md",
+    "Tarea 3 - Competencia picoCTF 2026/08 Undo.md",
+    "Tarea 3 - Competencia picoCTF 2026/01 bytemancy 1.md",
+    "Tarea 3 - Competencia picoCTF 2026/07 Fool the Lockout.md",
+    "Tarea 3 - Competencia picoCTF 2026/09 No FA.md",
+    "crack.py.md",
+    "Archivos.md",
+    "A15 picoCTF Forensic 3/01 WebNet0.md",
+    "A15 picoCTF Forensic 3/Archivos 01/Screenshot 2026-03-17 211825.png",
+    "A15 picoCTF Forensic 3/Archivos 01/Screenshot 2026-03-17 211613.png",
+    "A15 picoCTF Forensic 3/03 Matryoshka doll.md",
+    "A15 picoCTF Forensic 3/02 WebNet1.md",
+    "A15 picoCTF Forensic 3/Archivos 02/Screenshot 2026-03-17 215349.png",
+    "A15 picoCTF Forensic 3/05 MacroHard WeakEdge.md",
+    "A15 picoCTF Forensic 3/Archivos 05/Screenshot 2026-03-18 161210.png",
+    "A15 picoCTF Forensic 3/Archivos 05/archivo/docProps/thumbnail.jpeg",
+    "A15 picoCTF Forensic 3/04 tunn3l_v1s10n.md",
+    "A15 picoCTF Forensic 3/Archivos 04/Screenshot 2026-03-18 154830.png",
+    "A15 picoCTF Forensic 3/Archivos 04/Screenshot 2026-03-18 154326.png",
+    "A15 picoCTF Forensic 3/Archivos 04/Screenshot 2026-03-18 130719.png",
+    "A15 picoCTF Forensic 3/Archivos 04/tunn3l_v1s10n aumentndo el tamaño de los pixeles.bmp",
+    "Tarea 3 - Competencia picoCTF 2026/06 Forensics Git 1.md",
+    "Tarea 3 - Competencia picoCTF 2026/05 Forensics Git 0.md",
+    "Sin título.canvas"
+  ]
+}

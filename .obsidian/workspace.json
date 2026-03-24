@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Tarea 1 - General Skills/03 Special.md",
+                "file": "picoCTF/A16 picoCTF Forensic 4/06 Operation Oni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 Special"
+              "title": "06 Operation Oni"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.5
+    "width": 200
   },
   "right": {
     "id": "10694d5e4891f662",
@@ -174,52 +174,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
     }
   },
   "active": "de0c689f3cd5f714",
   "lastOpenFiles": [
-    "picoCTF/A07 General skills 3/10 serpentine.py",
-    "picoCTF/A07 General skills 3/10 Serpentine.md",
-    "picoCTF/A07 General skills 3/09 level3.hash.bin",
-    "picoCTF/A07 General skills 3/09 level3.py",
-    "picoCTF/A07 General skills 3/08 level2.py",
-    "picoCTF/A07 General skills 3/09 level3.flag.txt.enc",
-    "picoCTF/A07 General skills 3/09 PW Crack 3.md",
-    "picoCTF/A07 General skills 3/08 level2.flag.txt.enc",
-    "picoCTF/A07 General skills 3/07 level1.py",
-    "picoCTF/A07 General skills 3/08 PW Crack 2.md",
-    "picoCTF/A07 General skills 3/07 level1.flag.txt.enc",
-    "picoCTF/A07 General skills 3/07 PW Crack 1.md",
-    "picoCTF/A07 General skills 3/06 fixme2.py",
-    "picoCTF/A07 General skills 3/05 fixme1.py.md",
-    "picoCTF/A07 General skills 3/06 fixme2.py.md",
-    "picoCTF/A07 General skills 3/05 fixme1.py",
-    "picoCTF/A07 General skills 3/03 code.py",
-    "picoCTF/A07 General skills 3/04 convertme.py.md",
-    "picoCTF/A07 General skills 3/02 runme.py.md",
-    "picoCTF/A07 General skills 3/03 Codebook.md",
-    "picoCTF/A07 General skills 3/01 Super SSH.md",
-    "picoCTF/A06 General skills 2/09 Big zip.md",
-    "picoCTF/A06 General skills 2/10 First Find.md",
-    "picoCTF/A06 General skills 2/08 Repetitions.md",
-    "picoCTF/A06 General skills 2/05 Useless.md",
-    "picoCTF/A06 General skills 2/06 Tab, Tab, Attack.md",
-    "picoCTF/A06 General skills 2/07 Magikarp Ground Mission.md",
-    "picoCTF/A06 General skills 2/04 Static ain't always noise.md",
-    "picoCTF/A06 General skills 2/03 Wave a flag.md",
-    "picoCTF/A06 General skills 2/01 Based.md",
-    "picoCTF/A06 General skills 2/02 Strings it.md",
-    "picoCTF/A05 General skills 1/10 Nice netcat.md",
-    "picoCTF/A05 General skills 1/09 Glitch Cat.md",
-    "picoCTF/A05 General skills 1/06 Obedient Cat.md",
-    "picoCTF/A05 General skills 1/07 What is a net cat.md",
-    "picoCTF/A05 General skills 1/05 First Grep.md"
+    "picoCTF/A16 picoCTF Forensic 4/Archivos 06/id_ed25519",
+    "picoCTF/A16 picoCTF Forensic 4/Archivos 06/disk.img.gz",
+    "picoCTF/A16 picoCTF Forensic 4/Archivos 06",
+    "picoCTF/A16 picoCTF Forensic 4/04 Sleuthkit Apprentice.md",
+    "picoCTF/A16 picoCTF Forensic 4/06 Operation Oni.md",
+    "picoCTF/A16 picoCTF Forensic 4/05 Operation Orchid.md",
+    "picoCTF/A16 picoCTF Forensic 4/03 Sleuthkit Intro.md",
+    "picoCTF/A16 picoCTF Forensic 4/02 Disk, disk, sleuth!.md",
+    "picoCTF/A16 picoCTF Forensic 4/01 Milkslap.md",
+    "picoCTF/A15 picoCTF Forensic 3/03 Matryoshka doll.md",
+    "picoCTF/A15 picoCTF Forensic 3/04 tunn3l_v1s10n.md",
+    "picoCTF/A15 picoCTF Forensic 3/05 MacroHard WeakEdge.md",
+    "picoCTF/A15 picoCTF Forensic 3/02 WebNet1.md",
+    "picoCTF/A15 picoCTF Forensic 3/01 WebNet0.md",
+    "picoCTF/A16 picoCTF Forensic 4/Archivos 01/concat_v.png",
+    "picoCTF/A16 picoCTF Forensic 4/Archivos 01",
+    "picoCTF/A16 picoCTF Forensic 4/Archivos 02/dds1-alpine.flag.img.gz",
+    "picoCTF/A16 picoCTF Forensic 4/Archivos 02",
+    "picoCTF/A16 picoCTF Forensic 4/Archivos 03/disk.img.gz",
+    "picoCTF/A16 picoCTF Forensic 4/Archivos 03",
+    "picoCTF/A16 picoCTF Forensic 4/Archivos 04/disk.flag.img.gz",
+    "picoCTF/A16 picoCTF Forensic 4/Archivos 04",
+    "picoCTF/A16 picoCTF Forensic 4/Archivos 05/flag.txt.enc",
+    "picoCTF/A14 picoCTF Forensic 2/01 m00nwalk.md",
+    "00.md",
+    "picoCTF/E1 - 1er Examen Parcial/09 Java Code Analysis.md",
+    "picoCTF/E1 - 1er Examen Parcial/Archivos 09/Screenshot 2026-03-22 211346.png",
+    "picoCTF/E1 - 1er Examen Parcial/Archivos 09/Screenshot 2026-03-22 211559.png",
+    "picoCTF/E1 - 1er Examen Parcial/Archivos 09/Screenshot 2026-03-22 211648.png",
+    "picoCTF/E1 - 1er Examen Parcial/Archivos 09/Screenshot 2026-03-22 212002.png",
+    "picoCTF/E1 - 1er Examen Parcial/Archivos 09/Screenshot 2026-03-22 212256.png",
+    "picoCTF/E1 - 1er Examen Parcial/Archivos 09/Screenshot 2026-03-22 212402.png",
+    "picoCTF/A11 picoCTF Web 3/03 JaWT Scratchpad.md",
+    "picoCTF/E1 - 1er Examen Parcial/08 findme.md",
+    "picoCTF/A14 picoCTF Forensic 2/sstv/examples/m1.png",
+    "picoCTF/A14 picoCTF Forensic 2/sstv/README.md",
+    "picoCTF/A13 picoCTF Forensic 1/01 Glory of the Garden.md",
+    "picoCTF/A13 picoCTF Forensic 1/01 garden.jpg",
+    "picoCTF/A13 picoCTF Forensic 1/05 What Lies Within.md",
+    "picoCTF/A13 picoCTF Forensic 1/05 buildings.png",
+    "picoCTF/A14 picoCTF Forensic 2/04 like1000.md",
+    "picoCTF/A14 picoCTF Forensic 2/03 c0rrupt.md",
+    "picoCTF/A14 picoCTF Forensic 2/02 WhitePages.md",
+    "picoCTF/A14 picoCTF Forensic 2/05 Shark on wire 2.md",
+    "picoCTF/Tarea 1 - General Skills/03 Special.md",
+    "picoCTF/A07 General skills 3/10 Serpentine.md"
   ]
 }
