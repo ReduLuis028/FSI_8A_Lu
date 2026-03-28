@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "11cd3c4c2bea1744",
+        "id": "6a44e3c9c542f150",
         "type": "tabs",
         "children": [
           {
-            "id": "20b9b8f9f1182e73",
+            "id": "07f417b1059ea6b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/A16 picoCTF Forensic 4/06 Operation Oni.md",
+                "file": "picoCTF/E1 - 1er Examen Parcial/General Skills/Extra agregado por el Docente (24-03-2026)/08 Python Wrangling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06 Operation Oni"
+              "title": "08 Python Wrangling"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 233.5
   },
   "right": {
     "id": "10694d5e4891f662",
@@ -183,53 +183,52 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "de0c689f3cd5f714",
+  "active": "07f417b1059ea6b1",
   "lastOpenFiles": [
-    "picoCTF/A16 picoCTF Forensic 4/Archivos 06/id_ed25519",
-    "picoCTF/A16 picoCTF Forensic 4/Archivos 06/disk.img.gz",
-    "picoCTF/A16 picoCTF Forensic 4/Archivos 06",
-    "picoCTF/A16 picoCTF Forensic 4/04 Sleuthkit Apprentice.md",
-    "picoCTF/A16 picoCTF Forensic 4/06 Operation Oni.md",
-    "picoCTF/A16 picoCTF Forensic 4/05 Operation Orchid.md",
-    "picoCTF/A16 picoCTF Forensic 4/03 Sleuthkit Intro.md",
-    "picoCTF/A16 picoCTF Forensic 4/02 Disk, disk, sleuth!.md",
-    "picoCTF/A16 picoCTF Forensic 4/01 Milkslap.md",
-    "picoCTF/A15 picoCTF Forensic 3/03 Matryoshka doll.md",
-    "picoCTF/A15 picoCTF Forensic 3/04 tunn3l_v1s10n.md",
-    "picoCTF/A15 picoCTF Forensic 3/05 MacroHard WeakEdge.md",
-    "picoCTF/A15 picoCTF Forensic 3/02 WebNet1.md",
-    "picoCTF/A15 picoCTF Forensic 3/01 WebNet0.md",
-    "picoCTF/A16 picoCTF Forensic 4/Archivos 01/concat_v.png",
-    "picoCTF/A16 picoCTF Forensic 4/Archivos 01",
-    "picoCTF/A16 picoCTF Forensic 4/Archivos 02/dds1-alpine.flag.img.gz",
-    "picoCTF/A16 picoCTF Forensic 4/Archivos 02",
-    "picoCTF/A16 picoCTF Forensic 4/Archivos 03/disk.img.gz",
-    "picoCTF/A16 picoCTF Forensic 4/Archivos 03",
-    "picoCTF/A16 picoCTF Forensic 4/Archivos 04/disk.flag.img.gz",
-    "picoCTF/A16 picoCTF Forensic 4/Archivos 04",
-    "picoCTF/A16 picoCTF Forensic 4/Archivos 05/flag.txt.enc",
-    "picoCTF/A14 picoCTF Forensic 2/01 m00nwalk.md",
-    "00.md",
+    "picoCTF/E1 - 1er Examen Parcial/General Skills/Extra agregado por el Docente (24-03-2026)/09 SansAlpha.md",
+    "picoCTF/E1 - 1er Examen Parcial/General Skills/Extra agregado por el Docente (24-03-2026)/10 Specialer.md",
+    "picoCTF/E1 - 1er Examen Parcial/General Skills/Extra agregado por el Docente (24-03-2026)/08 Python Wrangling.md",
+    "picoCTF/E1 - 1er Examen Parcial/General Skills/Extra agregado por el Docente (24-03-2026)/Archivos 08/ende.py",
+    "picoCTF/E1 - 1er Examen Parcial/General Skills/Extra agregado por el Docente (24-03-2026)/Archivos 08/password.txt",
+    "picoCTF/E1 - 1er Examen Parcial/General Skills/Extra agregado por el Docente (24-03-2026)/Archivos 08/flag.txt.en",
+    "picoCTF/E1 - 1er Examen Parcial/General Skills/Extra agregado por el Docente (24-03-2026)/05 Rust fixme 1.md",
+    "picoCTF/E1 - 1er Examen Parcial/General Skills/Extra agregado por el Docente (24-03-2026)/06 Rust fixme 2.md",
+    "picoCTF/E1 - 1er Examen Parcial/General Skills/Extra agregado por el Docente (24-03-2026)/04 HashingJobApp.md",
+    "picoCTF/E1 - 1er Examen Parcial/General Skills/Extra agregado por el Docente (24-03-2026)/07 Rust fixme 3.md",
+    "picoCTF/E1 - 1er Examen Parcial/General Skills/Extra agregado por el Docente (24-03-2026)/Archivos 07/fixme3 fixed.rar",
+    "picoCTF/E1 - 1er Examen Parcial/General Skills/Extra agregado por el Docente (24-03-2026)/Archivos 06/fixme2 fixed.rar",
+    "picoCTF/E1 - 1er Examen Parcial/General Skills/Extra agregado por el Docente (24-03-2026)/Archivos 07/fixme3/src/main.rs",
+    "picoCTF/E1 - 1er Examen Parcial/General Skills/Extra agregado por el Docente (24-03-2026)/Archivos 07/fixme3/src",
+    "picoCTF/E1 - 1er Examen Parcial/General Skills/Extra agregado por el Docente (24-03-2026)/Archivos 07/fixme3/Cargo.lock",
+    "picoCTF/E1 - 1er Examen Parcial/General Skills/Extra agregado por el Docente (24-03-2026)/Archivos 07/fixme3/Cargo.toml",
+    "picoCTF/E1 - 1er Examen Parcial/General Skills/Extra agregado por el Docente (24-03-2026)/Archivos 07/fixme3",
+    "picoCTF/E1 - 1er Examen Parcial/General Skills/Extra agregado por el Docente (24-03-2026)/Archivos 04/Screenshot 2026-03-27 110654.png",
+    "picoCTF/E1 - 1er Examen Parcial/Web/08 SSTI2.md",
+    "picoCTF/E1 - 1er Examen Parcial/Web/07 SQL Direct.md",
+    "picoCTF/E1 - 1er Examen Parcial/Web/01 Bookmarklet.md",
+    "picoCTF/E1 - 1er Examen Parcial/Web/02 Cookie Monster Secret Recipe.md",
+    "picoCTF/E1 - 1er Examen Parcial/Web/03 head-dump.md",
+    "picoCTF/E1 - 1er Examen Parcial/Web/04 SSTI1.md",
+    "picoCTF/E1 - 1er Examen Parcial/Web/05 findme.md",
+    "picoCTF/E1 - 1er Examen Parcial/Web/06 Java Code Analysis.md",
+    "picoCTF/E1 - 1er Examen Parcial/Web/Archivos 06/Screenshot 2026-03-22 211346.png",
+    "picoCTF/E1 - 1er Examen Parcial/Web/Archivos 06/Screenshot 2026-03-22 211559.png",
+    "picoCTF/E1 - 1er Examen Parcial/Web/Archivos 06/Screenshot 2026-03-22 211648.png",
+    "picoCTF/E1 - 1er Examen Parcial/Web/Archivos 06/Screenshot 2026-03-22 212402.png",
+    "picoCTF/E1 - 1er Examen Parcial/Web/Archivos 06/Screenshot 2026-03-22 212002.png",
+    "picoCTF/E1 - 1er Examen Parcial/Web/Archivos 06/Screenshot 2026-03-22 212256.png",
+    "picoCTF/E1 - 1er Examen Parcial/Web/Archivos 05/Screenshot 2026-03-22 211559.png",
+    "picoCTF/E1 - 1er Examen Parcial/Web/Archivos 05/Screenshot 2026-03-22 211346.png",
+    "picoCTF/E1 - 1er Examen Parcial/Web/Archivos 05/Screenshot 2026-03-22 212256.png",
+    "picoCTF/E1 - 1er Examen Parcial/General Skills/01 FANTASY CTF.md",
+    "picoCTF/E1 - 1er Examen Parcial/General Skills/02 dont-you-love-banners.md",
+    "picoCTF/E1 - 1er Examen Parcial/General Skills/03 flag_shop.md",
+    "picoCTF/E1 - 1er Examen Parcial/03 flag_shop.md",
+    "picoCTF/E1 - 1er Examen Parcial/02 dont-you-love-banners.md",
+    "picoCTF/E1 - 1er Examen Parcial/01 FANTASY CTF.md",
     "picoCTF/E1 - 1er Examen Parcial/09 Java Code Analysis.md",
-    "picoCTF/E1 - 1er Examen Parcial/Archivos 09/Screenshot 2026-03-22 211346.png",
-    "picoCTF/E1 - 1er Examen Parcial/Archivos 09/Screenshot 2026-03-22 211559.png",
-    "picoCTF/E1 - 1er Examen Parcial/Archivos 09/Screenshot 2026-03-22 211648.png",
-    "picoCTF/E1 - 1er Examen Parcial/Archivos 09/Screenshot 2026-03-22 212002.png",
-    "picoCTF/E1 - 1er Examen Parcial/Archivos 09/Screenshot 2026-03-22 212256.png",
-    "picoCTF/E1 - 1er Examen Parcial/Archivos 09/Screenshot 2026-03-22 212402.png",
-    "picoCTF/A11 picoCTF Web 3/03 JaWT Scratchpad.md",
-    "picoCTF/E1 - 1er Examen Parcial/08 findme.md",
-    "picoCTF/A14 picoCTF Forensic 2/sstv/examples/m1.png",
-    "picoCTF/A14 picoCTF Forensic 2/sstv/README.md",
-    "picoCTF/A13 picoCTF Forensic 1/01 Glory of the Garden.md",
-    "picoCTF/A13 picoCTF Forensic 1/01 garden.jpg",
-    "picoCTF/A13 picoCTF Forensic 1/05 What Lies Within.md",
-    "picoCTF/A13 picoCTF Forensic 1/05 buildings.png",
-    "picoCTF/A14 picoCTF Forensic 2/04 like1000.md",
-    "picoCTF/A14 picoCTF Forensic 2/03 c0rrupt.md",
-    "picoCTF/A14 picoCTF Forensic 2/02 WhitePages.md",
-    "picoCTF/A14 picoCTF Forensic 2/05 Shark on wire 2.md",
-    "picoCTF/Tarea 1 - General Skills/03 Special.md",
-    "picoCTF/A07 General skills 3/10 Serpentine.md"
+    "picoCTF/E1 - 1er Examen Parcial/11 SSTI2.md",
+    "Archivos 09.md",
+    "picoCTF/E1 - 1er Examen Parcial/10 SQL Direct.md"
   ]
 }
