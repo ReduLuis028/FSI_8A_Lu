@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6a44e3c9c542f150",
+        "id": "ce922e498a09a8b7",
         "type": "tabs",
         "children": [
           {
-            "id": "07f417b1059ea6b1",
+            "id": "feb5620ca0f87380",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Tarea 4 - Forensic/09 Ph4nt0m 1ntrud3r.md",
+                "file": "picoCTF/A17 picoCTF Cryptography P1/01 The numbers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09 Ph4nt0m 1ntrud3r"
+              "title": "01 The numbers"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 293.5
   },
   "right": {
     "id": "10694d5e4891f662",
@@ -183,53 +183,52 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "07f417b1059ea6b1",
+  "active": "feb5620ca0f87380",
   "lastOpenFiles": [
-    "picoCTF/Tarea 4 - Forensic/Archivos 09/Screenshot 2026-03-29 003615.png",
-    "picoCTF/Tarea 4 - Forensic/Archivos 09/Screenshot 2026-03-29 003550.png",
-    "picoCTF/A15 picoCTF Forensic 3/02 WebNet1.md",
+    "picoCTF/A17 picoCTF Cryptography P1/02 13.md",
+    "picoCTF/A17 picoCTF Cryptography P1/03 Caesar.md",
+    "picoCTF/A17 picoCTF Cryptography P1/04 Easy 1.md",
+    "picoCTF/A17 picoCTF Cryptography P1/05 la cifra de.md",
+    "picoCTF/A17 picoCTF Cryptography P1/06 Tapping.md",
+    "picoCTF/A17 picoCTF Cryptography P1/07 waves over lambda.md",
+    "picoCTF/A17 picoCTF Cryptography P1/08 interencdec.md",
+    "picoCTF/A17 picoCTF Cryptography P1/Files 03/Screenshot 2026-04-13 091605.png",
+    "picoCTF/A17 picoCTF Cryptography P1/Files 07/01 FireShot Capture 008 - Monoalpha01 betic Substitution Cipher - Online Cryptogram Decoder, Sol_ - [www.dcode.fr].png",
+    "picoCTF/A17 picoCTF Cryptography P1/Files 07/01 Monoalpha01 betic Substitution Cipher - Online Cryptogram Decoder, Sol.png",
+    "picoCTF/A17 picoCTF Cryptography P1/Files 07/02 Monoalpha01 betic Substitution Cipher - Online Cryptogram Decoder, Sol.png",
+    "picoCTF/A17 picoCTF Cryptography P1/Files 08/Caesar Cipher (Shift) Translator - Online Decoder, Encoder, Solver.png",
+    "picoCTF/A17 picoCTF Cryptography P1/Files 08/FireShot Capture 010 - Caesar Cipher (Shift) Translator - Online Decoder, Encoder, Solver_ - [www.dcode.fr].png",
+    "picoCTF/A17 picoCTF Cryptography P1/Files 07/02 FireShot Capture 009 - Monoalphabetic Substitution Cipher - Online Cryptogram Decoder, Sol_ - [www.dcode.fr].png",
+    "Files 06",
+    "picoCTF/A17 picoCTF Cryptography P1/Files 06/decode Morse code.py",
+    "picoCTF/A17 picoCTF Cryptography P1/Files 05/02 Vigenere Cipher - Boxentriq - [www.boxentriq.com].png",
+    "picoCTF/A17 picoCTF Cryptography P1/Files 05/01 Vigenere Cipher - Boxentriq - [www.boxentriq.com].png",
+    "picoCTF/A17 picoCTF Cryptography P1/Files 04/table.txt",
+    "picoCTF/A17 picoCTF Cryptography P1/Files 04/decrypt flag.py",
+    "picoCTF/A17 picoCTF Cryptography P1/Files 03/data.enc",
     "picoCTF/A15 picoCTF Forensic 3/01 WebNet0.md",
-    "picoCTF/A15 picoCTF Forensic 3/05 MacroHard WeakEdge.md",
-    "picoCTF/A16 picoCTF Forensic 4/01 Milkslap.md",
+    "picoCTF/A14 picoCTF Forensic 2/05 Shark on wire 2.md",
+    "picoCTF/A14 picoCTF Forensic 2/01 m00nwalk.md",
+    "picoCTF/A13 picoCTF Forensic 1/01 Glory of the Garden.md",
+    "picoCTF/A13 picoCTF Forensic 1/02 So Meta.md",
+    "picoCTF/A13 picoCTF Forensic 1/03 Shark on wire 1.md",
+    "picoCTF/A13 picoCTF Forensic 1/04 Extensions.md",
+    "picoCTF/A13 picoCTF Forensic 1/05 What Lies Within.md",
+    "picoCTF/A15 picoCTF Forensic 3/02 WebNet1.md",
     "picoCTF/A16 picoCTF Forensic 4/02 Disk, disk, sleuth!.md",
     "picoCTF/A16 picoCTF Forensic 4/03 Sleuthkit Intro.md",
     "picoCTF/A16 picoCTF Forensic 4/04 Sleuthkit Apprentice.md",
     "picoCTF/A16 picoCTF Forensic 4/05 Operation Orchid.md",
     "picoCTF/A16 picoCTF Forensic 4/06 Operation Oni.md",
+    "picoCTF/A17 picoCTF Cryptography P1/01 The numbers.md",
+    "picoCTF/A17 picoCTF Cryptography P1/Files 01/the_numbers.png",
+    "picoCTF/A17 picoCTF Cryptography P1/Files 01/Single Substitution Encryption.py",
+    "picoCTF/A17 picoCTF Cryptography P1/Files 02",
+    "picoCTF/A17 picoCTF Cryptography P1/Files 03",
+    "picoCTF/A17 picoCTF Cryptography P1/Files 04",
+    "picoCTF/A17 picoCTF Cryptography P1/Files 05",
     "picoCTF/Tarea 4 - Forensic/09 Ph4nt0m 1ntrud3r.md",
-    "picoCTF/Tarea 4 - Forensic/Archivos 09/myNetworkTraffic.pcap",
-    "picoCTF/Tarea 4 - Forensic/08 RED.md",
-    "picoCTF/Tarea 4 - Forensic/06 CanYouSee.md",
-    "picoCTF/Tarea 4 - Forensic/07 Secret of the Polyglot.md",
-    "picoCTF/Tarea 4 - Forensic/Archivos 08/red.png",
-    "picoCTF/Tarea 4 - Forensic/Archivos 07/salida.png",
-    "picoCTF/Tarea 4 - Forensic/Archivos 07/flag2of2-final.txt",
-    "picoCTF/Tarea 4 - Forensic/03 Redaction gone wrong.md",
-    "picoCTF/Tarea 4 - Forensic/04 hideme.md",
-    "picoCTF/Tarea 4 - Forensic/05 Scan Surprise.md",
-    "picoCTF/Tarea 4 - Forensic/Archivos 07/flag2of2-final.pdf",
-    "picoCTF/Tarea 4 - Forensic/02 St3g0.md",
-    "picoCTF/Tarea 4 - Forensic/01 information.md",
-    "picoCTF/Tarea 4 - Forensic/Archivos 06/ukn_reality.jpg",
-    "picoCTF/Tarea 4 - Forensic/Archivos 06/unknown.zip",
-    "picoCTF/Tarea 4 - Forensic/Archivos 05/Screenshot 2026-03-28 194823.png",
-    "picoCTF/Tarea 4 - Forensic/Archivos 05/flag.png",
-    "picoCTF/Tarea 4 - Forensic/Archivos 05/challenge.zip",
-    "picoCTF/Tarea 4 - Forensic/Archivos 04/_flag.png.extracted/secret/salida.txt",
-    "picoCTF/Tarea 4 - Forensic/Archivos 04/_flag.png.extracted/secret/flag.png",
-    "picoCTF/Tarea 4 - Forensic/Archivos 04/_flag.png.extracted/secret",
-    "picoCTF/Tarea 4 - Forensic/Archivos 04/_flag.png.extracted/9B3B.zip",
-    "picoCTF/Tarea 4 - Forensic/Archivos 04/_flag.png.extracted/29",
-    "picoCTF/Tarea 4 - Forensic/Archivos 04/_flag.png.extracted/29.zlib",
-    "picoCTF/Tarea 4 - Forensic/Archivos 04/flag.png",
-    "picoCTF/Tarea 4 - Forensic/Archivos 02/pico.flag.png",
-    "picoCTF/Tarea 4 - Forensic/Archivos 01/cat.jpg",
-    "picoCTF/Tarea 4 - Forensic/00 .md",
-    "00.md",
-    "picoCTF/E1 - 1er Examen Parcial/General Skills/Extra agregado por el Docente (24-03-2026)/08 Python Wrangling.md",
-    "picoCTF/E1 - 1er Examen Parcial/General Skills/Extra agregado por el Docente (24-03-2026)/09 SansAlpha.md",
-    "picoCTF/E1 - 1er Examen Parcial/General Skills/Extra agregado por el Docente (24-03-2026)/10 Specialer.md",
-    "picoCTF/E1 - 1er Examen Parcial/General Skills/Extra agregado por el Docente (24-03-2026)/05 Rust fixme 1.md",
-    "picoCTF/E1 - 1er Examen Parcial/General Skills/Extra agregado por el Docente (24-03-2026)/06 Rust fixme 2.md"
+    "picoCTF/A15 picoCTF Forensic 3/05 MacroHard WeakEdge.md",
+    "picoCTF/A16 picoCTF Forensic 4/01 Milkslap.md"
   ]
 }
