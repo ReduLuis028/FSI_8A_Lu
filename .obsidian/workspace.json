@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ce922e498a09a8b7",
+        "id": "047b93bdc3569b51",
         "type": "tabs",
         "children": [
           {
-            "id": "feb5620ca0f87380",
+            "id": "d3f978c34df270b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/A17 picoCTF Cryptography P1/01 The numbers.md",
+                "file": "picoCTF/A18 picoCTF Cryptography P2/01 rsa-pop-quiz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 The numbers"
+              "title": "01 rsa-pop-quiz"
             }
           }
         ]
@@ -183,8 +183,13 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "feb5620ca0f87380",
+  "active": "d3f978c34df270b8",
   "lastOpenFiles": [
+    "picoCTF/A18 picoCTF Cryptography P2/(Files.md",
+    "picoCTF/A18 picoCTF Cryptography P2/01 rsa-pop-quiz.md",
+    "picoCTF/A18 picoCTF Cryptography P2/Files.md",
+    "picoCTF/A18 picoCTF Cryptography P2/[[.md",
+    "picoCTF/A17 picoCTF Cryptography P1/01 The numbers.md",
     "picoCTF/A17 picoCTF Cryptography P1/02 13.md",
     "picoCTF/A17 picoCTF Cryptography P1/03 Caesar.md",
     "picoCTF/A17 picoCTF Cryptography P1/04 Easy 1.md",
@@ -220,15 +225,11 @@
     "picoCTF/A16 picoCTF Forensic 4/04 Sleuthkit Apprentice.md",
     "picoCTF/A16 picoCTF Forensic 4/05 Operation Orchid.md",
     "picoCTF/A16 picoCTF Forensic 4/06 Operation Oni.md",
-    "picoCTF/A17 picoCTF Cryptography P1/01 The numbers.md",
     "picoCTF/A17 picoCTF Cryptography P1/Files 01/the_numbers.png",
     "picoCTF/A17 picoCTF Cryptography P1/Files 01/Single Substitution Encryption.py",
     "picoCTF/A17 picoCTF Cryptography P1/Files 02",
     "picoCTF/A17 picoCTF Cryptography P1/Files 03",
     "picoCTF/A17 picoCTF Cryptography P1/Files 04",
-    "picoCTF/A17 picoCTF Cryptography P1/Files 05",
-    "picoCTF/Tarea 4 - Forensic/09 Ph4nt0m 1ntrud3r.md",
-    "picoCTF/A15 picoCTF Forensic 3/05 MacroHard WeakEdge.md",
-    "picoCTF/A16 picoCTF Forensic 4/01 Milkslap.md"
+    "picoCTF/A17 picoCTF Cryptography P1/Files 05"
   ]
 }

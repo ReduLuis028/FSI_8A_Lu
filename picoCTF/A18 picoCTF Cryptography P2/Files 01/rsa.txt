@@ -1,0 +1,25 @@
+RSA - llave publica - asimetrico
+-------------------------------------------------------------------------
+m   - mensaje original o mensaje en texto plano 
+c   - mensaje cifrado (ciphertext)
+p,q - son dos numeros primos distintos y muy grandes
+n   - es el modulo (lo compartes las llaves publica como privada)
+tn  - totient n (funcion de euler)
+e   - llave public - 65537 (exponente)  2 ^ 16 + 1
+d   - llave privada
+
+Calculos
+--------------------------------------------------
+n  = p * q
+tn = (p -1) * (q-1)
+d = e ^ -1 (mod tn)	- pow(e, -1, tn)
+
+Cifrar  
+--------------------------------------------------
+c = m ^ e (mod n)	- pow(m, e, n)
+
+Decifrars
+--------------------------------------------------
+m = c ^ d (mod n)	- pow(c, d, n)
+
+
