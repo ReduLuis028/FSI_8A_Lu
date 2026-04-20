@@ -22,6 +22,7 @@
 		Se realiza la operación: `m = c^d mod n`
 		Donde: `d = inverse(e, φ(n))`
 	4. Script utilizado [[Files 03/solve.py]]
+	5. Flag: `picoCTF{bad_1d3a5_3801255}`.
 
 **Notes**
 	

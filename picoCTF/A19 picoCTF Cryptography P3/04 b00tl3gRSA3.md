@@ -21,9 +21,9 @@
 		Donde se utilizo la pagina https://www.alpertron.com.ar/ECM.HTM
 			![[Files 04/Screenshot 2026-04-20 131428.png]]
 	3. Cálculo de φ(n) (tn)
-		Se usa la propiedad:
-		φ(n) = (p1 − 1)(p2 − 1)...(pk − 1)
+		Se usa la propiedad: `φ(n) = (p1 − 1)(p2 − 1)...(pk − 1)`
 	4. Script utilizado [[Files 04/solve.py]]
+	5. Flag: `picoCTF{too_many_fact0rs_3023548}`.
 
 **Notes**
 	
