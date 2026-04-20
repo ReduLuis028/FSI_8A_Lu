@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "047b93bdc3569b51",
+        "id": "e4d54397b4817aed",
         "type": "tabs",
         "children": [
           {
-            "id": "d3f978c34df270b8",
+            "id": "0b6d2025b5a10ece",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/A18 picoCTF Cryptography P2/01 rsa-pop-quiz.md",
+                "file": "picoCTF/A19 picoCTF Cryptography P3/04 b00tl3gRSA3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 rsa-pop-quiz"
+              "title": "04 b00tl3gRSA3"
             }
           }
         ]
@@ -183,10 +183,26 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "d3f978c34df270b8",
+  "active": "0b6d2025b5a10ece",
   "lastOpenFiles": [
-    "picoCTF/A18 picoCTF Cryptography P2/(Files.md",
+    "picoCTF/A19 picoCTF Cryptography P3/03 b00tl3gRSA2.md",
+    "picoCTF/A19 picoCTF Cryptography P3/04 b00tl3gRSA3.md",
+    "picoCTF/A19 picoCTF Cryptography P3/Files 04/Screenshot 2026-04-20 131428.png",
+    "picoCTF/A19 picoCTF Cryptography P3/Files 04/solve.py",
+    "picoCTF/A19 picoCTF Cryptography P3/Files 03/solve.py",
+    "picoCTF/A19 picoCTF Cryptography P3/02 Mind your Ps and Qs.md",
+    "picoCTF/A19 picoCTF Cryptography P3/01 Mini RSA.md",
+    "picoCTF/A19 picoCTF Cryptography P3/Files 02/solveValues.py",
+    "picoCTF/A19 picoCTF Cryptography P3/Files 02/values",
     "picoCTF/A18 picoCTF Cryptography P2/01 rsa-pop-quiz.md",
+    "picoCTF/A19 picoCTF Cryptography P3/Files 01/ciphertext",
+    "picoCTF/A19 picoCTF Cryptography P3/Files 02/solveCipher.py",
+    "picoCTF/A19 picoCTF Cryptography P3/Files 01/values",
+    "picoCTF/A19 picoCTF Cryptography P3/Files 02/ciphertext",
+    "picoCTF/A19 picoCTF Cryptography P3/Files 01/solveRSA.py",
+    "picoCTF/A19 picoCTF Cryptography P3/Files 02/solveRSA.py",
+    "picoCTF/A19 picoCTF Cryptography P3/03 b00tl3gRSA3.md",
+    "picoCTF/A18 picoCTF Cryptography P2/(Files.md",
     "picoCTF/A18 picoCTF Cryptography P2/Files.md",
     "picoCTF/A18 picoCTF Cryptography P2/[[.md",
     "picoCTF/A17 picoCTF Cryptography P1/01 The numbers.md",
@@ -204,13 +220,8 @@
     "picoCTF/A17 picoCTF Cryptography P1/Files 08/Caesar Cipher (Shift) Translator - Online Decoder, Encoder, Solver.png",
     "picoCTF/A17 picoCTF Cryptography P1/Files 08/FireShot Capture 010 - Caesar Cipher (Shift) Translator - Online Decoder, Encoder, Solver_ - [www.dcode.fr].png",
     "picoCTF/A17 picoCTF Cryptography P1/Files 07/02 FireShot Capture 009 - Monoalphabetic Substitution Cipher - Online Cryptogram Decoder, Sol_ - [www.dcode.fr].png",
-    "Files 06",
-    "picoCTF/A17 picoCTF Cryptography P1/Files 06/decode Morse code.py",
     "picoCTF/A17 picoCTF Cryptography P1/Files 05/02 Vigenere Cipher - Boxentriq - [www.boxentriq.com].png",
     "picoCTF/A17 picoCTF Cryptography P1/Files 05/01 Vigenere Cipher - Boxentriq - [www.boxentriq.com].png",
-    "picoCTF/A17 picoCTF Cryptography P1/Files 04/table.txt",
-    "picoCTF/A17 picoCTF Cryptography P1/Files 04/decrypt flag.py",
-    "picoCTF/A17 picoCTF Cryptography P1/Files 03/data.enc",
     "picoCTF/A15 picoCTF Forensic 3/01 WebNet0.md",
     "picoCTF/A14 picoCTF Forensic 2/05 Shark on wire 2.md",
     "picoCTF/A14 picoCTF Forensic 2/01 m00nwalk.md",
@@ -218,18 +229,6 @@
     "picoCTF/A13 picoCTF Forensic 1/02 So Meta.md",
     "picoCTF/A13 picoCTF Forensic 1/03 Shark on wire 1.md",
     "picoCTF/A13 picoCTF Forensic 1/04 Extensions.md",
-    "picoCTF/A13 picoCTF Forensic 1/05 What Lies Within.md",
-    "picoCTF/A15 picoCTF Forensic 3/02 WebNet1.md",
-    "picoCTF/A16 picoCTF Forensic 4/02 Disk, disk, sleuth!.md",
-    "picoCTF/A16 picoCTF Forensic 4/03 Sleuthkit Intro.md",
-    "picoCTF/A16 picoCTF Forensic 4/04 Sleuthkit Apprentice.md",
-    "picoCTF/A16 picoCTF Forensic 4/05 Operation Orchid.md",
-    "picoCTF/A16 picoCTF Forensic 4/06 Operation Oni.md",
-    "picoCTF/A17 picoCTF Cryptography P1/Files 01/the_numbers.png",
-    "picoCTF/A17 picoCTF Cryptography P1/Files 01/Single Substitution Encryption.py",
-    "picoCTF/A17 picoCTF Cryptography P1/Files 02",
-    "picoCTF/A17 picoCTF Cryptography P1/Files 03",
-    "picoCTF/A17 picoCTF Cryptography P1/Files 04",
-    "picoCTF/A17 picoCTF Cryptography P1/Files 05"
+    "picoCTF/A13 picoCTF Forensic 1/05 What Lies Within.md"
   ]
 }
