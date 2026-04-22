@@ -10,6 +10,10 @@
 	1. Download the `file.csr`.
 	2. Once you do that, you can run the next command:
 		- `openssl req -in readmycert.csr -text -noout`
+			- `openssl req`: usa la herramienta para trabajar con solicitudes de certificados.
+			- `-in readmycert.csr`: indica el archivo CSR de entrada.
+			- `-text`: muestra el contenido en texto legible (detalle del certificado).
+			- `-noout`: evita que se muestre la versión codificada en Base64.
 	3. The command outputs the decoded CSR information.
 		<script>
 			WARNING: can't open config file: ./installation/openssl.cnf
