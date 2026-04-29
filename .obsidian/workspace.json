@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Tarea 5 - Cryptography/10 Vigenere.md",
+                "file": "picoCTF/A21 Reverse Engineering P1/05 vault-door-5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 Vigenere"
+              "title": "05 vault-door-5"
             }
           }
         ]
@@ -185,8 +185,22 @@
   },
   "active": "0c841b6cd840fa75",
   "lastOpenFiles": [
-    "picoCTF/Tarea 5 - Cryptography/09 substitution2.md",
+    "picoCTF/A21 Reverse Engineering P1/04 vault-door-4.md",
+    "picoCTF/A21 Reverse Engineering P1/05 vault-door-5.md",
+    "picoCTF/A21 Reverse Engineering P1/03 vault-door-3.md",
+    "picoCTF/A21 Reverse Engineering P1/02 vault-door-1.md",
+    "picoCTF/A21 Reverse Engineering P1/01 vault-door-training.md",
+    "picoCTF/A21 Reverse Engineering P1/Files 05/solveVaultDoor5.py",
+    "picoCTF/A21 Reverse Engineering P1/Files 04/VaultDoor4NoSpace.java",
+    "picoCTF/A21 Reverse Engineering P1/Files 04/solveVaultDoor4.py",
+    "picoCTF/A21 Reverse Engineering P1/Files 03/solveVaultDoor3.java",
+    "picoCTF/A21 Reverse Engineering P1/Files 05/VaultDoor5.java",
+    "picoCTF/A21 Reverse Engineering P1/Files 04/VaultDoor4.java",
+    "picoCTF/A21 Reverse Engineering P1/Files 03/VaultDoor3.java",
+    "picoCTF/A21 Reverse Engineering P1/Files 02/VaultDoor1.java",
+    "picoCTF/A21 Reverse Engineering P1/Files 01/VaultDoorTraining.java",
     "picoCTF/Tarea 5 - Cryptography/10 Vigenere.md",
+    "picoCTF/Tarea 5 - Cryptography/09 substitution2.md",
     "picoCTF/Tarea 5 - Cryptography/Files 10/Screenshot 2026-04-26 201221.png",
     "picoCTF/Tarea 5 - Cryptography/07 substitution0.md",
     "picoCTF/Tarea 5 - Cryptography/08 substitution1.md",
@@ -198,19 +212,10 @@
     "picoCTF/Tarea 5 - Cryptography/Files 07/Screenshot 2026-04-26 193053.png",
     "picoCTF/Tarea 5 - Cryptography/Files 06/Rail Fence (Zig-Zag) Cipher - Online Decoder, Encoder, Solver_ - [www.dcode.fr].png",
     "picoCTF/Tarea 5 - Cryptography/Files 05/Screenshot 2026-04-26 180453.png",
-    "picoCTF/Tarea 5 - Cryptography/Files 04/rockyou.txt.gz",
     "picoCTF/Tarea 5 - Cryptography/04 hashcrack.md",
-    "picoCTF/Tarea 5 - Cryptography/Files 04/rockyou.txt",
-    "picoCTF/Tarea 5 - Cryptography/Files 03/rockyou.txt",
-    "picoCTF/Tarea 5 - Cryptography/Files 04/solveHashes.py",
     "picoCTF/Tarea 5 - Cryptography/03 EVEN RSA CAN BE BROKEN.md",
-    "picoCTF/Tarea 5 - Cryptography/Files 03/solveN1...Nn.py",
-    "picoCTF/Tarea 5 - Cryptography/Files 03/solveN1N2.py",
-    "picoCTF/Tarea 5 - Cryptography/Files 03/encrypt.py",
     "picoCTF/Tarea 5 - Cryptography/02 credstuff.md",
-    "picoCTF/Tarea 5 - Cryptography/Files 02/decryptTheUserCultiris.py",
     "picoCTF/A20 picoCTF Cryptography P4/05 flags.md",
-    "picoCTF/Tarea 5 - Cryptography/Files 02/solve.py",
     "picoCTF/Tarea 5 - Cryptography/01 Crack the Power.md",
     "picoCTF/A20 picoCTF Cryptography P4/01 Pixelated.md",
     "picoCTF/Tarea 4 - Forensic/01 information.md",
@@ -224,11 +229,6 @@
     "picoCTF/A20 picoCTF Cryptography P4/Files 01/Screenshot 2026-04-21 202441.png",
     "picoCTF/A20 picoCTF Cryptography P4/Files 01/Screenshot 2026-04-21 202523.png",
     "picoCTF/A20 picoCTF/03 HideToSee.md",
-    "picoCTF/A19 picoCTF Cryptography P3/03 b00tl3gRSA2.md",
-    "picoCTF/A20 picoCTF/05 flags.md",
-    "picoCTF/A17 picoCTF Cryptography P1/03 Caesar.md",
-    "picoCTF/A20 picoCTF/02 basic-mod1.md",
-    "picoCTF/A20 picoCTF/01 Pixelated.md",
-    "Files 01/setegolve.jar.md"
+    "picoCTF/A19 picoCTF Cryptography P3/03 b00tl3gRSA2.md"
   ]
 }
