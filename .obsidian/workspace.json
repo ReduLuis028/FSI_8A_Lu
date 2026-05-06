@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4e66692adec3539f",
+        "id": "3e3f7ad2c205b873",
         "type": "tabs",
         "children": [
           {
-            "id": "0c841b6cd840fa75",
+            "id": "450fd59b130b0aa6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/A21 Reverse Engineering P1/05 vault-door-5.md",
+                "file": "picoCTF/A22 Reverse Engineering P2/06 Picker IV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 vault-door-5"
+              "title": "06 Picker IV"
             }
           }
         ]
@@ -183,29 +183,38 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "0c841b6cd840fa75",
+  "active": "450fd59b130b0aa6",
   "lastOpenFiles": [
-    "picoCTF/A21 Reverse Engineering P1/04 vault-door-4.md",
+    "picoCTF/A22 Reverse Engineering P2/01 Safe Opener.md",
+    "picoCTF/A22 Reverse Engineering P2/02 timer.md",
+    "picoCTF/A22 Reverse Engineering P2/03 Picker I.md",
+    "picoCTF/A22 Reverse Engineering P2/04 Picker II.md",
+    "picoCTF/A22 Reverse Engineering P2/05 Picker III.md",
+    "picoCTF/A22 Reverse Engineering P2/06 Picker IV.md",
+    "picoCTF/A22 Reverse Engineering P2/Files 06/Screenshot 2026-05-06 101246.png",
+    "picoCTF/A22 Reverse Engineering P2/Files 06/picker-IV",
+    "picoCTF/A22 Reverse Engineering P2/Files 06/picker-IV.c",
+    "picoCTF/A22 Reverse Engineering P2/Files 05/picker-III.py",
+    "picoCTF/A22 Reverse Engineering P2/Files 04/picker-II.py",
+    "picoCTF/A22 Reverse Engineering P2/Files 02/timer.rar",
+    "picoCTF/A22 Reverse Engineering P2/Files 03/solveHex.py",
+    "Files 03/solveHex.py.md",
+    "Files 03",
+    "picoCTF/A22 Reverse Engineering P2/Files 03/picker-I.py",
+    "picoCTF/A22 Reverse Engineering P2/Files 02/timer.apk",
+    "picoCTF/A22 Reverse Engineering P2/Files 01/solvebase64.py",
+    "00.md",
     "picoCTF/A21 Reverse Engineering P1/05 vault-door-5.md",
+    "picoCTF/A21 Reverse Engineering P1/04 vault-door-4.md",
     "picoCTF/A21 Reverse Engineering P1/03 vault-door-3.md",
     "picoCTF/A21 Reverse Engineering P1/02 vault-door-1.md",
     "picoCTF/A21 Reverse Engineering P1/01 vault-door-training.md",
-    "picoCTF/A21 Reverse Engineering P1/Files 05/solveVaultDoor5.py",
-    "picoCTF/A21 Reverse Engineering P1/Files 04/VaultDoor4NoSpace.java",
-    "picoCTF/A21 Reverse Engineering P1/Files 04/solveVaultDoor4.py",
-    "picoCTF/A21 Reverse Engineering P1/Files 03/solveVaultDoor3.java",
-    "picoCTF/A21 Reverse Engineering P1/Files 05/VaultDoor5.java",
-    "picoCTF/A21 Reverse Engineering P1/Files 04/VaultDoor4.java",
-    "picoCTF/A21 Reverse Engineering P1/Files 03/VaultDoor3.java",
-    "picoCTF/A21 Reverse Engineering P1/Files 02/VaultDoor1.java",
-    "picoCTF/A21 Reverse Engineering P1/Files 01/VaultDoorTraining.java",
     "picoCTF/Tarea 5 - Cryptography/10 Vigenere.md",
     "picoCTF/Tarea 5 - Cryptography/09 substitution2.md",
     "picoCTF/Tarea 5 - Cryptography/Files 10/Screenshot 2026-04-26 201221.png",
     "picoCTF/Tarea 5 - Cryptography/07 substitution0.md",
     "picoCTF/Tarea 5 - Cryptography/08 substitution1.md",
     "picoCTF/Tarea 5 - Cryptography/Files 09/Monoalphabetic Substitution Cipher - Online Cryptogram Decoder, Sol_ - [www.dcode.fr].png",
-    "picoCTF/Tarea 5 - Cryptography/Files 08/Monoalphabetic Substitution Cipher - Online Cryptogram Decoder, Sol_ - [www.dcode.fr].png.~tmp",
     "picoCTF/Tarea 5 - Cryptography/Files 08/Monoalphabetic Substitution Cipher - Online Cryptogram Decoder, Sol_ - [www.dcode.fr].png",
     "picoCTF/Tarea 5 - Cryptography/06 rail-fence.md",
     "picoCTF/Tarea 5 - Cryptography/05 morse-code.md",
@@ -218,17 +227,8 @@
     "picoCTF/A20 picoCTF Cryptography P4/05 flags.md",
     "picoCTF/Tarea 5 - Cryptography/01 Crack the Power.md",
     "picoCTF/A20 picoCTF Cryptography P4/01 Pixelated.md",
-    "picoCTF/Tarea 4 - Forensic/01 information.md",
-    "picoCTF/A20 picoCTF Cryptography P4/04 ReadMyCert.md",
-    "picoCTF/A20 picoCTF Cryptography P4/03 HideToSee.md",
-    "picoCTF/A20 picoCTF Cryptography P4/02 basic-mod1.md",
     "picoCTF/A20 picoCTF Cryptography P4/Files 05/Descifrando Banderas Marítimas CIS - Google Gemini - [gemini.google.com].png",
-    "picoCTF/A06 General skills 2/03 Wave a flag.md",
-    "picoCTF/A20 picoCTF/04 ReadMyCert.md",
     "picoCTF/A20 picoCTF Cryptography P4/Files 01/Screenshot 2026-04-21 202424.png",
-    "picoCTF/A20 picoCTF Cryptography P4/Files 01/Screenshot 2026-04-21 202441.png",
-    "picoCTF/A20 picoCTF Cryptography P4/Files 01/Screenshot 2026-04-21 202523.png",
-    "picoCTF/A20 picoCTF/03 HideToSee.md",
-    "picoCTF/A19 picoCTF Cryptography P3/03 b00tl3gRSA2.md"
+    "picoCTF/A20 picoCTF Cryptography P4/Files 01/Screenshot 2026-04-21 202441.png"
   ]
 }
