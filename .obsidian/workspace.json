@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/A22 Reverse Engineering P2/06 Picker IV.md",
+                "file": "picoCTF/A22 Reverse Engineering P2/01 Safe Opener 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06 Picker IV"
+              "title": "01 Safe Opener 2"
             }
           }
         ]
@@ -185,12 +185,20 @@
   },
   "active": "450fd59b130b0aa6",
   "lastOpenFiles": [
+    "picoCTF/A22 Reverse Engineering P2/Files 01 SO2/Screenshot 2026-05-06 213341.png",
+    "picoCTF/A22 Reverse Engineering P2/Files 01 SO2/Screenshot 2026-05-06 212905.png.~tmp",
+    "picoCTF/A22 Reverse Engineering P2/Files 01 SO2/Screenshot 2026-05-06 212905.png",
+    "picoCTF/A22 Reverse Engineering P2/01 Safe Opener 2.md",
     "picoCTF/A22 Reverse Engineering P2/01 Safe Opener.md",
+    "picoCTF/A22 Reverse Engineering P2/Files 01 SO2/SafeOpener.class",
+    "picoCTF/A22 Reverse Engineering P2/Files 01 SO2",
+    "picoCTF/A22 Reverse Engineering P2/Nueva carpeta",
+    "00.md",
+    "picoCTF/A22 Reverse Engineering P2/06 Picker IV.md",
     "picoCTF/A22 Reverse Engineering P2/02 timer.md",
     "picoCTF/A22 Reverse Engineering P2/03 Picker I.md",
     "picoCTF/A22 Reverse Engineering P2/04 Picker II.md",
     "picoCTF/A22 Reverse Engineering P2/05 Picker III.md",
-    "picoCTF/A22 Reverse Engineering P2/06 Picker IV.md",
     "picoCTF/A22 Reverse Engineering P2/Files 06/Screenshot 2026-05-06 101246.png",
     "picoCTF/A22 Reverse Engineering P2/Files 06/picker-IV",
     "picoCTF/A22 Reverse Engineering P2/Files 06/picker-IV.c",
@@ -199,11 +207,6 @@
     "picoCTF/A22 Reverse Engineering P2/Files 02/timer.rar",
     "picoCTF/A22 Reverse Engineering P2/Files 03/solveHex.py",
     "Files 03/solveHex.py.md",
-    "Files 03",
-    "picoCTF/A22 Reverse Engineering P2/Files 03/picker-I.py",
-    "picoCTF/A22 Reverse Engineering P2/Files 02/timer.apk",
-    "picoCTF/A22 Reverse Engineering P2/Files 01/solvebase64.py",
-    "00.md",
     "picoCTF/A21 Reverse Engineering P1/05 vault-door-5.md",
     "picoCTF/A21 Reverse Engineering P1/04 vault-door-4.md",
     "picoCTF/A21 Reverse Engineering P1/03 vault-door-3.md",
@@ -226,9 +229,7 @@
     "picoCTF/Tarea 5 - Cryptography/02 credstuff.md",
     "picoCTF/A20 picoCTF Cryptography P4/05 flags.md",
     "picoCTF/Tarea 5 - Cryptography/01 Crack the Power.md",
-    "picoCTF/A20 picoCTF Cryptography P4/01 Pixelated.md",
     "picoCTF/A20 picoCTF Cryptography P4/Files 05/Descifrando Banderas Marítimas CIS - Google Gemini - [gemini.google.com].png",
-    "picoCTF/A20 picoCTF Cryptography P4/Files 01/Screenshot 2026-04-21 202424.png",
-    "picoCTF/A20 picoCTF Cryptography P4/Files 01/Screenshot 2026-04-21 202441.png"
+    "picoCTF/A20 picoCTF Cryptography P4/Files 01/Screenshot 2026-04-21 202424.png"
   ]
 }

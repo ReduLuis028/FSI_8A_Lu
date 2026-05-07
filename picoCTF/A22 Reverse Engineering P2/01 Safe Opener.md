@@ -11,7 +11,7 @@
 	1. Download and open the `file.java`.
 	2. Analyze it and search for something to decrypt
 		- In this case a coe in base64: `cGwzYXMzX2wzdF9tM18xbnQwX3RoM19zYWYz`.
-	3. Decrypt the base64 with the following code in Pyhton [[Files 01/solvebase64.py]].
+	3. Decrypt the base64 with the following code in Pyhton [[solvebase64.py]].
 	4. Then we get the flag: `picoCTF{pl3as3_l3t_m3_1nt0_th3_saf3}`.
 
 **Notes**

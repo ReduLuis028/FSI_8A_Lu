@@ -1,5 +1,6 @@
 {
   "showLineNumber": true,
   "readableLineLength": false,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true
 }
